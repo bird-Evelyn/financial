@@ -1,2 +1,2 @@
-# financial-
+# financial
 stock analysis （A-shares）
